@@ -1,0 +1,9 @@
+     
+server:
+  port: ${PORT:2223}
+
+logging:
+  level:
+    ROOT: INFO
+    org.springframework.web: INFO
+
